@@ -4,6 +4,9 @@ const goods = [
     { title: 'Jacket', price: 350 , imgScr: 'img/Jacket.jpg'},
     { title: 'Shoes', price: 250 , imgScr: 'img/Shoes.jpg'},
   ];
+
+
+  
   
   const renderGoodsItem = (a,b,c) => {
   
